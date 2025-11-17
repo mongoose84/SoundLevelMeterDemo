@@ -1,4 +1,4 @@
-# buffer
+# Sound Level Meter Demo
 
 This project is a demo on how to connect to a SLM from Brüel & Kjær and show data in a bar graph in React. It uses a FastAPI python proxy server to setup the device.
 
